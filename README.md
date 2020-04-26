@@ -7,6 +7,9 @@ A repository of resources and activities to get hands on experience with AWS ☁
 
 ## Services 
 
+### Billing
+* [Control your AWS costs With the AWS Free Tier and AWS Budgets](https://aws.amazon.com/getting-started/hands-on/control-your-costs-free-tier-budgets/)
+
 ### CloudFormation
 * https://github.com/awslabs/aws-service-catalog-products
 
